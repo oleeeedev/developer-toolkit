@@ -12,6 +12,9 @@ Welcome to the Developer Toolkit! This README provides a comprehensive list of e
 - [Documentation](#documentation)
 - [APIs and Web Services](#apis-and-web-services)
 - [Additional Tools](#additional-tools)
+- [Useful Extensions](#useful-extensions)
+- [Online Resources](#online-resources)
+- [Community and Support](#community-and-support)
 
 ## Code Editors 📝
 | Tool | Description | Link |
@@ -76,6 +79,27 @@ Welcome to the Developer Toolkit! This README provides a comprehensive list of e
 | **Kubernetes** | An open-source container orchestration system for automating software deployment, scaling, and management. | [Kubernetes](https://kubernetes.io/) |
 | **Visual Studio Live Share** | Real-time collaborative development from the comfort of your favorite tools. | [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/) |
 | **Figma** | A web-based UI/UX design tool. | [Figma](https://www.figma.com/) |
+
+## Useful Extensions 🛠️
+| Extension | Description | Link |
+|-----------|-------------|------|
+| **Prettier** | An opinionated code formatter to ensure consistent code style. | [Prettier](https://prettier.io/) |
+| **ESLint** | A static code analysis tool to identify problematic patterns in JavaScript. | [ESLint](https://eslint.org/) |
+| **Live Server** | A VS Code extension to launch a development local server with live reload feature. | [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) |
+
+## Online Resources 🌐
+| Resource | Description | Link |
+|----------|-------------|------|
+| **MDN Web Docs** | Comprehensive resources for developers, by developers, on web standards, HTML, CSS, and JavaScript. | [MDN Web Docs](https://developer.mozilla.org/) |
+| **Stack Overflow** | A community of developers helping each other solve coding problems. | [Stack Overflow](https://stackoverflow.com/) |
+| **freeCodeCamp** | Learn to code for free with millions of other learners. | [freeCodeCamp](https://www.freecodecamp.org/) |
+
+## Community and Support 💬
+| Platform | Description | Link |
+|----------|-------------|------|
+| **GitHub Discussions** | Engage with the community to ask questions and share ideas. | [GitHub Discussions](https://github.com/discussions) |
+| **Reddit - r/programming** | A subreddit for discussion and news about computer programming. | [r/programming](https://www.reddit.com/r/programming/) |
+| **Discord - Dev Community** | Join a Discord server for real-time chat with other developers. | [Dev Community](https://discord.gg/devcommunity) |
 
 ---
 
